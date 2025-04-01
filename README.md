@@ -1,7 +1,9 @@
 check_k8s: Kubernetes plugin for Nagios
 ===
 
-Leo TODO: https://github.com/ITRS-Group/check_k8s/pull/71
+Leo TODO:
+https://github.com/ITRS-Group/check_k8s/pull/71
+https://github.com/ITRS-Group/check_k8s/issues/68
 
 ![Travis (.com)](https://img.shields.io/travis/com/itrs-group/check_k8s) [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ITRS-Group/check_k8s.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ITRS-Group/check_k8s/context:python) ![GitHub](https://img.shields.io/github/license/itrs-group/check_k8s)
 
